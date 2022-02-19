@@ -1,0 +1,289 @@
+{
+  "sections": {
+    "1632399018db751388": {
+      "type": "slider-vertical",
+      "blocks": {
+        "1632399018db751388-0": {
+          "type": "image",
+          "settings": {
+            "heading": "Welcome to our store",
+            "caption": "Showcase your best products",
+            "button_label": "Explore all",
+            "button_link": "",
+            "video1": "",
+            "image1_caption": "",
+            "image1_link": "",
+            "video2": "",
+            "image2_caption": "",
+            "image2_link": "",
+            "video3": "",
+            "image3_caption": "",
+            "image3_link": ""
+          }
+        },
+        "1632399018db751388-1": {
+          "type": "image",
+          "settings": {
+            "heading": "Write about yourself",
+            "caption": "Include some awesome images",
+            "button_label": "Learn more",
+            "button_link": "",
+            "video1": "",
+            "image1_caption": "",
+            "image1_link": "",
+            "video2": "",
+            "image2_caption": "",
+            "image2_link": "",
+            "video3": "",
+            "image3_caption": "",
+            "image3_link": ""
+          }
+        },
+        "1632399018db751388-2": {
+          "type": "image",
+          "settings": {
+            "heading": "Promote your products",
+            "caption": "Include various promotions and flash sales",
+            "button_label": "Shop now",
+            "button_link": "",
+            "video1": "",
+            "image1_caption": "",
+            "image1_link": "",
+            "video2": "",
+            "image2_caption": "",
+            "image2_link": "",
+            "video3": "",
+            "image3_caption": "",
+            "image3_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632399018db751388-0",
+        "1632399018db751388-1",
+        "1632399018db751388-2"
+      ],
+      "settings": {
+        "text_size": "large"
+      }
+    },
+    "163239902249095ea8": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Most Popular",
+        "caption": "Collection",
+        "collection": "",
+        "show_view_all": true,
+        "layout": "asymmetrical",
+        "products_number": 12,
+        "show_promotional_block": true,
+        "promotional_block_title": "Write a short, captivating paragraph about your products. Or write about your current offers.",
+        "promotional_block_button_label": "",
+        "promotional_block_button_link": ""
+      }
+    },
+    "1632399060f8a46941": {
+      "type": "heading",
+      "settings": {
+        "title": "About Us",
+        "content": "<p>Write a big, bold statement about your brand. Catch your visitors attention by using some additional images with your products or store.<\/p>",
+        "button_label": "Learn More",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_size": "large"
+      }
+    },
+    "1632399064cfd08326": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "1632399064cfd08326-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "50% 50%",
+            "heading": "Emphasize a collection",
+            "description": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1632399064cfd08326-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "50% 50%",
+            "heading": "Show a product",
+            "description": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1632399064cfd08326-2": {
+          "type": "image",
+          "settings": {
+            "alignment": "50% 50%",
+            "heading": "Write your Story",
+            "description": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "45d5c6a8-c34a-43df-82d4-c6b57da4e647": {
+          "type": "image",
+          "settings": {
+            "alignment": "50% 50%",
+            "heading": "Write your Story",
+            "description": "<p>Give a freebie<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632399064cfd08326-0",
+        "1632399064cfd08326-1",
+        "1632399064cfd08326-2",
+        "45d5c6a8-c34a-43df-82d4-c6b57da4e647"
+      ],
+      "settings": {
+        "title": "Images with text overlay",
+        "layout": "asymmetrical",
+        "text_alignment": "horizontal-left vertical-bottom",
+        "color_text": "#ffffff",
+        "color_bg": ""
+      }
+    },
+    "16323991357ee39f75": {
+      "type": "heading",
+      "settings": {
+        "title": "Introduce a",
+        "content": "<p><strong>Big, bold call to action<\/strong><\/p>",
+        "button_label": "Learn more",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_size": "extra"
+      }
+    },
+    "1632399157698a4648": {
+      "type": "video-popup",
+      "settings": {
+        "title": "Video popup",
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+      }
+    },
+    "16323991613c782d33": {
+      "type": "featured-product",
+      "blocks": {
+        "16323991613c782d33-0": {
+          "type": "header",
+          "settings": {
+            "show_vendor": true,
+            "show_reviews": true,
+            "show_tax_info": false,
+            "show_sku": false,
+            "show_barcode": false
+          }
+        },
+        "16323991613c782d33-1": {
+          "type": "variant_picker",
+          "settings": {
+            "show_color_swatches": true,
+            "show_quantities": "no"
+          }
+        },
+        "16323991613c782d33-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_quantity_selector": true
+          }
+        },
+        "16323991613c782d33-3": {
+          "type": "product_link",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16323991613c782d33-0",
+        "16323991613c782d33-1",
+        "16323991613c782d33-2",
+        "16323991613c782d33-3"
+      ],
+      "settings": {
+        "product": "",
+        "media_aspect": "natural",
+        "enable_zoom": true,
+        "enable_video_looping": false
+      }
+    },
+    "1628782268aab83134": {
+      "type": "blog-posts",
+      "blocks": {
+        "3a12076c-f97c-4b6a-84a8-afed7e50b9ef": {
+          "type": "info",
+          "settings": {
+            "show_date": true,
+            "show_author": false
+          }
+        },
+        "062a779c-0a2e-47d3-992a-a4901edc79fe": {
+          "type": "title",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "3a12076c-f97c-4b6a-84a8-afed7e50b9ef",
+        "062a779c-0a2e-47d3-992a-a4901edc79fe"
+      ],
+      "settings": {
+        "title": "Latest Articles",
+        "blog": "",
+        "post_limit": 4,
+        "blog_show_image": true,
+        "show_view_all": true
+      }
+    },
+    "1632399166bb4a0006": {
+      "type": "collection-list",
+      "blocks": {
+        "1632399166bb4a0006-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "1632399166bb4a0006-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "fd957d20-4aed-4356-b71a-1e79cc9014bd": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632399166bb4a0006-0",
+        "1632399166bb4a0006-1",
+        "fd957d20-4aed-4356-b71a-1e79cc9014bd"
+      ],
+      "settings": {
+        "title": "Collection list"
+      }
+    }
+  },
+  "order": [
+    "1632399018db751388",
+    "163239902249095ea8",
+    "1632399060f8a46941",
+    "1632399064cfd08326",
+    "16323991357ee39f75",
+    "1632399157698a4648",
+    "16323991613c782d33",
+    "1628782268aab83134",
+    "1632399166bb4a0006"
+  ]
+}
