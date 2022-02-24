@@ -1,54 +1,115 @@
 {
   "sections": {
-    "1632399018db751388": {
+    "1645743795626f0135": {
+      "type": "image",
+      "settings": {
+        "title": "",
+        "image": "shopify:\/\/shop_images\/Painting16Room3.png",
+        "image_mobile": "shopify:\/\/shop_images\/Painting16Room3.png",
+        "link": ""
+      }
+    },
+    "16457438252074aacf": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"video-container\" style=\"--aspect-ratio: 2 \/ 3;\"><center><iframe  width=\"960;\" height=\"auto\"src=\"https:\/\/technicalgeekery.com\/wp-content\/uploads\/2021\/10\/Untitled-2.mp4\" sandbox>\n<\/iframe><\/center><\/div>",
+        "full_width": true
+      }
+    },
+    "1645743976158029c9": {
+      "type": "video-background",
+      "settings": {
+        "title": "",
+        "video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0598\/9384\/2108\/files\/Untitled_2.mp4?v=1634912331",
+        "image": "shopify:\/\/shop_images\/FireShot_Capture_302_-_Vimeo_-_vimeo.com.png",
+        "video_height": "56.25%",
+        "text_alignment": "horizontal-left vertical-bottom",
+        "color_text": "rgba(0,0,0,0)",
+        "color_bg": "rgba(0,0,0,0)"
+      }
+    },
+    "16457439799219d862": {
+      "type": "image-gallery",
+      "blocks": {
+        "1645743979916529b6-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Painting19_Room20.png",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "1645743979916529b6-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Painting17_Room8.png",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "1645743979916529b6-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Painting15_Room13.png",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "1645743979916529b6-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Painting18Room14.png",
+            "title": "",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "1645743979916529b6-0",
+        "1645743979916529b6-1",
+        "1645743979916529b6-2",
+        "1645743979916529b6-3"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "164574445913a7bbb0": {
       "type": "slider-vertical",
       "blocks": {
-        "1632399018db751388-0": {
+        "1645744459f9a62808-0": {
           "type": "image",
           "settings": {
-            "heading": "Welcome to our store",
-            "caption": "Showcase your best products",
-            "button_label": "Explore all",
-            "button_link": "",
-            "video1": "",
-            "image1_caption": "",
-            "image1_link": "",
-            "video2": "",
-            "image2_caption": "",
-            "image2_link": "",
-            "video3": "",
-            "image3_caption": "",
-            "image3_link": ""
-          }
-        },
-        "1632399018db751388-1": {
-          "type": "image",
-          "settings": {
-            "heading": "Write about yourself",
-            "caption": "Include some awesome images",
+            "heading": "Stephen Hand",
+            "caption": "Painting is Hearing My Heart Sing",
             "button_label": "Learn more",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/about",
+            "image1": "shopify:\/\/shop_images\/472A3842_f54c69df-b519-45a1-b4a1-342024704f2e.jpg",
             "video1": "",
             "image1_caption": "",
             "image1_link": "",
+            "image2": "shopify:\/\/shop_images\/472A4514_8b5698ae-9385-44b0-9ce3-551a69392b5d.jpg",
             "video2": "",
             "image2_caption": "",
             "image2_link": "",
+            "image3": "shopify:\/\/shop_images\/472A3896.jpg",
             "video3": "",
             "image3_caption": "",
             "image3_link": ""
           }
         },
-        "1632399018db751388-2": {
+        "1645744459f9a62808-1": {
           "type": "image",
           "settings": {
-            "heading": "Promote your products",
-            "caption": "Include various promotions and flash sales",
-            "button_label": "Shop now",
-            "button_link": "",
+            "heading": "Stephen Hand Gallery",
+            "caption": "",
+            "button_label": "Explore all",
+            "button_link": "shopify:\/\/collections\/gallery",
+            "image1": "shopify:\/\/shop_images\/472A4530.jpg",
             "video1": "",
             "image1_caption": "",
             "image1_link": "",
+            "image2": "shopify:\/\/shop_images\/472A4522.jpg",
             "video2": "",
             "image2_caption": "",
             "image2_link": "",
@@ -59,231 +120,151 @@
         }
       },
       "block_order": [
-        "1632399018db751388-0",
-        "1632399018db751388-1",
-        "1632399018db751388-2"
+        "1645744459f9a62808-0",
+        "1645744459f9a62808-1"
       ],
       "settings": {
-        "text_size": "large"
+        "text_size": "large",
+        "blending_modes": true
       }
     },
-    "163239902249095ea8": {
+    "1645744463a47ade18": {
       "type": "featured-collection",
       "settings": {
-        "heading": "Most Popular",
-        "caption": "Collection",
-        "collection": "",
+        "heading": "Available Works",
+        "caption": "",
+        "collection": "gallery",
         "show_view_all": true,
-        "layout": "asymmetrical",
+        "layout": "regular",
         "products_number": 12,
-        "show_promotional_block": true,
-        "promotional_block_title": "Write a short, captivating paragraph about your products. Or write about your current offers.",
+        "show_promotional_block": false,
+        "promotional_block_title": "Write a short, captivating paragraph about your products.",
         "promotional_block_button_label": "",
         "promotional_block_button_link": ""
       }
     },
-    "1632399060f8a46941": {
+    "1645744864f32be1cd": {
+      "type": "video-background",
+      "settings": {
+        "title": "",
+        "video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0598\/9384\/2108\/files\/painting_19.mp4?v=1633538957",
+        "video_height": "56.25%",
+        "text_alignment": "horizontal-left vertical-bottom",
+        "color_text": "rgba(0,0,0,0)",
+        "color_bg": "rgba(0,0,0,0)"
+      }
+    },
+    "1645744867a8312580": {
       "type": "heading",
       "settings": {
-        "title": "About Us",
-        "content": "<p>Write a big, bold statement about your brand. Catch your visitors attention by using some additional images with your products or store.<\/p>",
+        "title": "",
+        "content": "<p>Artistic creation is one of life’s most beautiful feeling of expression.<\/p>",
         "button_label": "Learn More",
-        "button_link": "",
+        "button_link": "shopify:\/\/pages\/about",
         "text_alignment": "center",
         "text_size": "large"
       }
     },
-    "1632399064cfd08326": {
+    "164574490187af8715": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Previous Works",
+        "caption": "",
+        "collection": "already-sold",
+        "show_view_all": true,
+        "layout": "regular",
+        "products_number": 5,
+        "show_promotional_block": true,
+        "promotional_block_title": "My process is one of spontaneous creation not knowing what will happen or what will be created.",
+        "promotional_block_button_label": "",
+        "promotional_block_button_link": ""
+      }
+    },
+    "1645745031b80e0076": {
       "type": "images-with-text-overlay",
       "blocks": {
-        "1632399064cfd08326-0": {
+        "16457450310cbdd8a3-0": {
           "type": "image",
           "settings": {
-            "alignment": "50% 50%",
-            "heading": "Emphasize a collection",
+            "image": "shopify:\/\/shop_images\/IMG_8702.jpg",
+            "alignment": "50% 0%",
+            "heading": "",
             "description": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Commission a Piece",
+            "button_link": "shopify:\/\/pages\/commissions"
           }
         },
-        "1632399064cfd08326-1": {
+        "16457450310cbdd8a3-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Painting9_Room8.png",
             "alignment": "50% 50%",
-            "heading": "Show a product",
+            "heading": "",
             "description": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Available Works",
+            "button_link": "shopify:\/\/collections\/gallery"
           }
         },
-        "1632399064cfd08326-2": {
+        "16457450310cbdd8a3-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2568_ac9d6d8f-954b-4921-ace5-4422ec4d2d46.jpg",
             "alignment": "50% 50%",
-            "heading": "Write your Story",
+            "heading": "",
             "description": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Previously Sold Pieces",
+            "button_link": "shopify:\/\/collections\/already-sold"
           }
         },
-        "45d5c6a8-c34a-43df-82d4-c6b57da4e647": {
+        "65cc86a6-9be3-4872-8d3d-80476a93f264": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design.png",
             "alignment": "50% 50%",
-            "heading": "Write your Story",
-            "description": "<p>Give a freebie<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "heading": "",
+            "description": "",
+            "button_label": "See Collector's Works",
+            "button_link": "shopify:\/\/pages\/testimonials"
           }
         }
       },
       "block_order": [
-        "1632399064cfd08326-0",
-        "1632399064cfd08326-1",
-        "1632399064cfd08326-2",
-        "45d5c6a8-c34a-43df-82d4-c6b57da4e647"
+        "16457450310cbdd8a3-0",
+        "16457450310cbdd8a3-1",
+        "16457450310cbdd8a3-2",
+        "65cc86a6-9be3-4872-8d3d-80476a93f264"
       ],
       "settings": {
-        "title": "Images with text overlay",
-        "layout": "asymmetrical",
+        "title": "",
+        "layout": "regular",
         "text_alignment": "horizontal-left vertical-bottom",
-        "color_text": "#ffffff",
+        "color_text": "",
         "color_bg": ""
       }
     },
-    "16323991357ee39f75": {
+    "1645745034862b94bf": {
       "type": "heading",
       "settings": {
-        "title": "Introduce a",
-        "content": "<p><strong>Big, bold call to action<\/strong><\/p>",
-        "button_label": "Learn more",
+        "title": "",
+        "content": "<p>I love to experiment in my art and find new innovation through the creation process.<\/p>",
+        "button_label": "",
         "button_link": "",
         "text_alignment": "center",
-        "text_size": "extra"
-      }
-    },
-    "1632399157698a4648": {
-      "type": "video-popup",
-      "settings": {
-        "title": "Video popup",
-        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-      }
-    },
-    "16323991613c782d33": {
-      "type": "featured-product",
-      "blocks": {
-        "16323991613c782d33-0": {
-          "type": "header",
-          "settings": {
-            "show_vendor": true,
-            "show_reviews": true,
-            "show_tax_info": false,
-            "show_sku": false,
-            "show_barcode": false
-          }
-        },
-        "16323991613c782d33-1": {
-          "type": "variant_picker",
-          "settings": {
-            "show_color_swatches": true,
-            "show_quantities": "no"
-          }
-        },
-        "16323991613c782d33-2": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_quantity_selector": true
-          }
-        },
-        "16323991613c782d33-3": {
-          "type": "product_link",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16323991613c782d33-0",
-        "16323991613c782d33-1",
-        "16323991613c782d33-2",
-        "16323991613c782d33-3"
-      ],
-      "settings": {
-        "product": "",
-        "media_aspect": "natural",
-        "enable_zoom": true,
-        "enable_video_looping": false
-      }
-    },
-    "1628782268aab83134": {
-      "type": "blog-posts",
-      "blocks": {
-        "3a12076c-f97c-4b6a-84a8-afed7e50b9ef": {
-          "type": "info",
-          "settings": {
-            "show_date": true,
-            "show_author": false
-          }
-        },
-        "062a779c-0a2e-47d3-992a-a4901edc79fe": {
-          "type": "title",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "3a12076c-f97c-4b6a-84a8-afed7e50b9ef",
-        "062a779c-0a2e-47d3-992a-a4901edc79fe"
-      ],
-      "settings": {
-        "title": "Latest Articles",
-        "blog": "",
-        "post_limit": 4,
-        "blog_show_image": true,
-        "show_view_all": true
-      }
-    },
-    "1632399166bb4a0006": {
-      "type": "collection-list",
-      "blocks": {
-        "1632399166bb4a0006-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "1632399166bb4a0006-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "fd957d20-4aed-4356-b71a-1e79cc9014bd": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "1632399166bb4a0006-0",
-        "1632399166bb4a0006-1",
-        "fd957d20-4aed-4356-b71a-1e79cc9014bd"
-      ],
-      "settings": {
-        "title": "Collection list"
+        "text_size": "large"
       }
     }
   },
   "order": [
-    "1632399018db751388",
-    "163239902249095ea8",
-    "1632399060f8a46941",
-    "1632399064cfd08326",
-    "16323991357ee39f75",
-    "1632399157698a4648",
-    "16323991613c782d33",
-    "1628782268aab83134",
-    "1632399166bb4a0006"
+    "1645743795626f0135",
+    "16457438252074aacf",
+    "1645743976158029c9",
+    "16457439799219d862",
+    "164574445913a7bbb0",
+    "1645744463a47ade18",
+    "1645744864f32be1cd",
+    "1645744867a8312580",
+    "164574490187af8715",
+    "1645745031b80e0076",
+    "1645745034862b94bf"
   ]
 }
