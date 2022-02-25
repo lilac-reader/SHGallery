@@ -1,0 +1,199 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "no_margins": true,
+        "reduced_margins": true
+      }
+    },
+    "1633542898ec73a560": {
+      "type": "image-with-text",
+      "blocks": {
+        "1633542898ec73a560-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Commission Your Own Piece",
+            "heading_size": "h2"
+          }
+        },
+        "1633542898ec73a560-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We do commission work where you can customize the painting size, colors, and style to create something totally unique for you.<\/p>"
+          }
+        },
+        "b36ee366-96f1-444c-a367-9bd9430a5343": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact for Info",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1633542898ec73a560-0",
+        "1633542898ec73a560-1",
+        "b36ee366-96f1-444c-a367-9bd9430a5343"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/472A3840.jpg",
+        "layout": "right-alignment"
+      }
+    },
+    "16347588580cfdd1e8": {
+      "type": "image-gallery",
+      "blocks": {
+        "16347588580cfdd1e8-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8793.jpg",
+            "title": "From the home of Steve L, Florida.",
+            "caption": ""
+          }
+        },
+        "16347588580cfdd1e8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0588_2.jpg",
+            "title": "From the home of PGA superstar Justin Rose and his wife Kate Rose.",
+            "caption": ""
+          }
+        },
+        "49eb026e-961a-4b98-bf51-bc1ce607198f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8702.jpg",
+            "title": "From the home of Tiffany and Scott Crawford, New Jersey",
+            "caption": ""
+          }
+        },
+        "16347588580cfdd1e8-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8792.jpg",
+            "title": "From the home of Lissette G, Florida.",
+            "caption": ""
+          }
+        },
+        "16347588580cfdd1e8-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8795.jpg",
+            "title": "From the home of Steve L, Florida",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "16347588580cfdd1e8-1",
+        "16347588580cfdd1e8-0",
+        "49eb026e-961a-4b98-bf51-bc1ce607198f",
+        "16347588580cfdd1e8-2",
+        "16347588580cfdd1e8-3"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "164254753209d100bc": {
+      "type": "image-gallery",
+      "blocks": {
+        "16425475325b95247e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Resized-20211224-223928.jpg",
+            "title": "From the home of Big Al Cicotte, Palm Beach Florida",
+            "caption": ""
+          }
+        },
+        "16425475325b95247e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG-9697.jpg",
+            "title": "From the home of Jeff N, Palm Beach Florida",
+            "caption": ""
+          }
+        },
+        "16425475325b95247e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG-9700.jpg",
+            "title": "From the home of Jeff N, Palm Beach Florida",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "16425475325b95247e-2",
+        "16425475325b95247e-0",
+        "16425475325b95247e-1"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "163354258669c172d8": {
+      "type": "image-gallery",
+      "blocks": {
+        "163354258669c172d8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6243.jpg",
+            "title": "60\"x72\"",
+            "caption": ""
+          }
+        },
+        "163354258669c172d8-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4080.jpg",
+            "title": "72\"x144\"",
+            "caption": ""
+          }
+        },
+        "163354258669c172d8-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7992.jpg",
+            "title": "72\"x120\"",
+            "caption": ""
+          }
+        },
+        "163354258669c172d8-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3086.jpg",
+            "title": "72\"x96\"",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "163354258669c172d8-0",
+        "163354258669c172d8-1",
+        "163354258669c172d8-2",
+        "163354258669c172d8-3"
+      ],
+      "settings": {
+        "title": "Previous Commissions"
+      }
+    },
+    "1632125485cfaa5f96": {
+      "type": "products-slider",
+      "settings": {
+        "title": "Explore Available Works",
+        "collection": "gallery",
+        "products_number": 3
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1633542898ec73a560",
+    "16347588580cfdd1e8",
+    "164254753209d100bc",
+    "163354258669c172d8",
+    "1632125485cfaa5f96"
+  ]
+}

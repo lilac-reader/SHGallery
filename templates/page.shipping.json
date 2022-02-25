@@ -1,0 +1,79 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "no_margins": true,
+        "reduced_margins": true
+      }
+    },
+    "1632125416e67e4991": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632125416e67e4991-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FREE INSURED SHIPPING",
+            "heading_size": "h2"
+          }
+        },
+        "1632125416e67e4991-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I use a special national fine art shipper, I have used them for over 15 years and never had any shipping issues. Since most of my paintings are large formate the shipper will build a large wooden crate for each painting and the crate is shipped to your door. The shipper also offers additional services to remove the artwork from the crate for you and will remove the shipping crate for you as well for an additional charge. The artwork is fully insured and guaranteed to be delivered to you in pristine condition.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1632125416e67e4991-0",
+        "1632125416e67e4991-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/services-wide-content_crating_art.jpg",
+        "layout": "right-alignment"
+      }
+    },
+    "1633542080f4df7d46": {
+      "type": "image-gallery",
+      "blocks": {
+        "1633542080f4df7d46-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2021-10-05_at_19-23-20_Packaging_Crating_Shipping_Photo_Gallery_Craters_Freighters.png",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "1633542080f4df7d46-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2021-10-05_at_19-23-34_Packaging_Crating_Shipping_Photo_Gallery_Craters_Freighters.png",
+            "title": "",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "1633542080f4df7d46-0",
+        "1633542080f4df7d46-1"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1632125485cfaa5f96": {
+      "type": "products-slider",
+      "settings": {
+        "title": "Explore Available Works",
+        "collection": "gallery",
+        "products_number": 3
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1632125416e67e4991",
+    "1633542080f4df7d46",
+    "1632125485cfaa5f96"
+  ]
+}

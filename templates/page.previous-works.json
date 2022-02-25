@@ -1,0 +1,277 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "no_margins": true,
+        "reduced_margins": true
+      }
+    },
+    "1640734193baa7c4b1": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "",
+        "caption": "",
+        "collection": "already-sold",
+        "show_view_all": true,
+        "layout": "regular",
+        "products_number": 17,
+        "show_promotional_block": false,
+        "promotional_block_title": "Write a short, captivating paragraph about your products.",
+        "promotional_block_button_label": "",
+        "promotional_block_button_link": ""
+      }
+    },
+    "16335445171141dd4d": {
+      "type": "image-gallery",
+      "disabled": true,
+      "blocks": {
+        "16335445171141dd4d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imageedit_1_5870306878.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "16335445171141dd4d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imageedit_3_3906574027.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "16335445171141dd4d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imageedit_5_2669445394.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "16335445171141dd4d-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imageedit_7_2607918998.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "312c9a66-aa3e-479d-a914-aed11c7e4296": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imageedit_9_7152629364.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "eee3d62b-1213-4c51-a5c2-ebe7215fe1c7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imageedit_11_7361490275.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "0df29a0c-139d-4d2b-82f7-e0fee87cb2de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imageedit_15_7345696242.jpg",
+            "title": "",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "16335445171141dd4d-0",
+        "16335445171141dd4d-1",
+        "16335445171141dd4d-2",
+        "16335445171141dd4d-3",
+        "312c9a66-aa3e-479d-a914-aed11c7e4296",
+        "eee3d62b-1213-4c51-a5c2-ebe7215fe1c7",
+        "0df29a0c-139d-4d2b-82f7-e0fee87cb2de"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1632400517c25aba67": {
+      "type": "image-gallery",
+      "disabled": true,
+      "blocks": {
+        "d46813cc-d108-4469-b9b7-14c2c6dfcc0d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imageedit_13_2290357032.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "1632400517c25aba67-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5627.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "1632400517c25aba67-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6243_c5da2822-7b03-4585-ab42-8886299f5c4f.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "0522eec5-246f-40d6-960c-8d42986d20f3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7991.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "659324c6-5fff-44e0-adc5-743232066a70": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4629.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "e8701e6f-a94a-496a-90c7-0ce3c6231f7d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4080_091f71c3-e032-4383-894a-b0608ee8223f.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "616ec0a5-7663-4d2e-91b3-2cd389bac81b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7992_3be9ddbb-b605-41cc-a10a-9f4e0a4eac05.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "40682876-1cdc-4e9a-9e70-252e93a63965": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3086_125de0d2-b2cc-4611-bf52-97c3f3d7949a.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "1f8daf94-064d-426d-b8a3-74e9264a03b5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1931.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "a87d7b85-5140-4ab6-bd48-9bfc3c923877": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1481.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "c19e745e-df06-43c9-840e-c45aa41d8449": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1307.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "ea233ae7-873a-4590-8296-dad4c0c10f21": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2627.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "3aa6a5a4-c84d-44b8-bf7a-2122624bca77": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2568_ac9d6d8f-954b-4921-ace5-4422ec4d2d46.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "2d461138-dcb7-4fa9-b92c-918e9d78b1ea": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2569_3afeb6cd-a56d-45d5-a87c-62abb4dbbc86.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "c7090228-5591-445d-ba7c-566f1e230956": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2570_9fca4d53-a8e9-4ade-b95d-bf4593019bb7.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "6b557e1f-42dc-448f-ba3a-1e8ec6570f53": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2629.jpg",
+            "title": "",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "d46813cc-d108-4469-b9b7-14c2c6dfcc0d",
+        "1632400517c25aba67-0",
+        "1632400517c25aba67-1",
+        "0522eec5-246f-40d6-960c-8d42986d20f3",
+        "659324c6-5fff-44e0-adc5-743232066a70",
+        "e8701e6f-a94a-496a-90c7-0ce3c6231f7d",
+        "616ec0a5-7663-4d2e-91b3-2cd389bac81b",
+        "40682876-1cdc-4e9a-9e70-252e93a63965",
+        "1f8daf94-064d-426d-b8a3-74e9264a03b5",
+        "a87d7b85-5140-4ab6-bd48-9bfc3c923877",
+        "c19e745e-df06-43c9-840e-c45aa41d8449",
+        "ea233ae7-873a-4590-8296-dad4c0c10f21",
+        "3aa6a5a4-c84d-44b8-bf7a-2122624bca77",
+        "2d461138-dcb7-4fa9-b92c-918e9d78b1ea",
+        "c7090228-5591-445d-ba7c-566f1e230956",
+        "6b557e1f-42dc-448f-ba3a-1e8ec6570f53"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1633546263e869e98e": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Available Works",
+        "caption": "",
+        "collection": "gallery",
+        "show_view_all": true,
+        "layout": "regular",
+        "products_number": 3,
+        "show_promotional_block": false,
+        "promotional_block_title": "",
+        "promotional_block_button_label": "",
+        "promotional_block_button_link": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1640734193baa7c4b1",
+    "16335445171141dd4d",
+    "1632400517c25aba67",
+    "1633546263e869e98e"
+  ]
+}
