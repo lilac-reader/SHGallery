@@ -1,19 +1,19 @@
-{%- liquid 
+{%- liquid
 
-  unless settings.grid_aspect == 'natural' 
-    assign aspect_ratio = settings.grid_aspect 
-  endunless 
+  unless settings.grid_aspect == 'natural'
+    assign aspect_ratio = settings.grid_aspect
+  endunless
 
 -%}
 
-<div class="product-item {{ css_class }} {{ settings.product_animation }}" 
-  {% if scroll_speed != '0' %} 
-    data-scroll-speed="{{ scroll_speed }}" 
+<div class="product-item {{ css_class }} {{ settings.product_animation }}"
+  {% if scroll_speed != '0' %}
+    data-scroll-speed="{{ scroll_speed }}"
     data-scroll-disable-on-lap
   {% endif %}
   {% if index %} data-index="{{ index }}" {% endif %}
 >
-  
+
   {%- unless product.available -%}
     <div class="product-badge text-size--small sold"><span>{{ 'collections.product_badges.sold_out' | t }}</span></div>
   {%- elsif badges -%}
@@ -48,16 +48,16 @@
     </div>
 
     <div class="product-item__caption">
-      
+
       <span class="product-item__title">
         <span>{{ product.title | escape }}</span>
       </span>
 
       {%- assign variant = product.selected_or_first_available_variant -%}
-
+      <span><p>{{product.metafields.my_fields.dimensions}}</p></span>
       <span class="product-item__price">
 
-        {%- liquid 
+        {%- liquid
 
           assign price = product.price | money
 
@@ -76,27 +76,27 @@
             endif
 
           else
-          
-            echo '<span class="visually-hidden">' 
-              echo 'general.accessibility_labels.price.regular' | t 
+
+            echo '<span class="visually-hidden">'
+              echo 'general.accessibility_labels.price.regular' | t
             echo '</span>'
-          
+
             if product.compare_at_price > product.price
               echo '<span>' | append: price | append: '</span>'
 
               echo '<del>'
-                echo '<span class="visually-hidden">' 
-                  echo 'general.accessibility_labels.price.sale' | t 
+                echo '<span class="visually-hidden">'
+                  echo 'general.accessibility_labels.price.sale' | t
                 echo '</span>'
                 echo product.compare_at_price_max | money
               echo '</del>'
 
             else
-              echo price         
+              echo price
             endif
 
           endif
-  
+
           if variant.unit_price_measurement
             echo '<span class="unit-price text-size--small">'
             echo variant.unit_price | money
@@ -113,7 +113,7 @@
       </span>
     </div>
 
-  </a>  
+  </a>
 
   {%- liquid
     if settings.show_variant_image
@@ -146,7 +146,7 @@
                   if variant.featured_media
                     echo '<div class="product-item__variant-image" style="display: none" data-id="' | append: u_index | append: '">'
                       render 'lazy-image', image: variant.featured_media, alt: product.title, ratio: aspect_ratio, sizes: sizes
-                    echo '</div>' 
+                    echo '</div>'
                   endif
                   assign u_index = u_index | plus: 1
                 echo '</div>'
