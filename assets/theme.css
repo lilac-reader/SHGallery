@@ -2831,7 +2831,7 @@ input[type=radio]:not(.product-variant__input) + label {
   text-align: right;
 }
 .order-table tfoot ul {
-  marign-top: 1em;
+  margin-top: 1em;
   list-style: none;
 }
 .order-table tfoot ul li {
@@ -8929,7 +8929,7 @@ h3.spr-form-title {
   position: relative;
   transform: scale(0.7);
   top: 3px;
-  margin-right: /7px;
+  margin-right: 7px;
 }
 .spr-summary-actions-newreview svg path {
   fill: var(--color-text);
@@ -9170,9 +9170,9 @@ body[data-single-variant] .store-availabilities-modal__variant-title {
   }
 }
 
-/*
- *  SECTION 6 - ADDONS
-*/
+
+ /* SECTION 6 - ADDONS*/
+
 .mount-header {
   overflow: hidden;
 }
@@ -9297,7 +9297,8 @@ body[data-single-variant] .store-availabilities-modal__variant-title {
   width: 100%;
   height: 75%;
 }
-#shopify-section-template--15314085314748__16457438252074aacf{margin-bottom:0px;}
+
+#shopify-section-template--15314085314748__16457438252074aacf {margin-bottom:0px !important;}
 /*---Mobile Edits---*/
 /*---Mobile Home Page Edits---*/
 @media only screen and (max-width: 540px) {

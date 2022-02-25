@@ -7,150 +7,248 @@
         "reduced_margins": true
       }
     },
-    "1632816263c7346a69": {
-      "type": "heading",
-      "settings": {
-        "title": "",
-        "content": "<p>Write some information about your brand, products or story.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "text_alignment": "left",
-        "text_size": "large"
-      }
-    },
-    "1632125386ececde1e": {
-      "type": "image",
-      "settings": {
-        "title": "",
-        "link": ""
-      }
-    },
-    "1632463631169b17ac": {
-      "type": "rich-text",
-      "blocks": {
-        "84e710e7-9193-426b-8344-9ec505c54e0d": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h3"
-          }
-        },
-        "960e1999-7d45-438f-9159-3b217f335305": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store. Write about your team, your processes, your success or failuers, anything that might speak to the customers about what you're trying to achieve with your store and products.<\/p>"
-          }
-        },
-        "bb38fea8-11df-4fb9-a173-b4d1a984e947": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h4"
-          }
-        },
-        "c2f18ed2-a766-4040-a5e8-6ea141c53b04": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store. Write about your team, your processes, your success or failuers, anything that might speak to the customers about what you're trying to achieve with your store and products.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "84e710e7-9193-426b-8344-9ec505c54e0d",
-        "960e1999-7d45-438f-9159-3b217f335305",
-        "bb38fea8-11df-4fb9-a173-b4d1a984e947",
-        "c2f18ed2-a766-4040-a5e8-6ea141c53b04"
-      ],
-      "settings": {
-        "text_alignment": "left"
-      }
-    },
     "1632125416e67e4991": {
       "type": "image-with-text",
       "blocks": {
-        "1632125416e67e4991-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Write your story",
-            "heading_size": "h1"
-          }
-        },
         "1632125416e67e4991-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Write some information about your brand, products or story.<\/p>"
+            "text": "<p>I love to experiment in my art and find new innovation through the creation process. Heavy texture and beautiful bold colors are my signature. I strive to produce highly unique original works that will bring happiness to you long into the future. I want you to be able to see something new in the paintings each day you look at them. Artwork is all about love and feeling for the work you create. The creation process is one of Life’s most beautiful feelings.<\/p>"
           }
         }
       },
       "block_order": [
-        "1632125416e67e4991-0",
         "1632125416e67e4991-1"
       ],
       "settings": {
-        "layout": "right-alignment"
+        "image": "shopify:\/\/shop_images\/472A4093.jpg",
+        "layout": "left-alignment"
       }
     },
-    "1632125433ea11c45b": {
+    "1645807884378bd625": {
+      "type": "video-popup",
+      "settings": {
+        "title": "",
+        "video": "https:\/\/vimeo.com\/674930955\/55f947c5c0",
+        "image": "shopify:\/\/shop_images\/FireShot_Capture_302_-_Vimeo_-_vimeo.com.png"
+      }
+    },
+    "1645807887122274c8": {
       "type": "image-with-text",
       "blocks": {
-        "1632125433ea11c45b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Write your story",
-            "heading_size": "h1"
-          }
-        },
-        "1632125433ea11c45b-1": {
+        "16458078875dc2fd07-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Write some information about your brand, products or story.<\/p>"
+            "text": "<p>I have been painting for over 25 years and have enjoyed my evolution of my artwork to its current style. Being inspired by many Masters like Pollock, Stills, and Richter has brought my artwork to its modern form. Artistic creation is one of life’s most beautiful feeling of expression. Painting to me is hearing my heart sing and feeling completely euphoric during the artistic process.<\/p>"
           }
         }
       },
       "block_order": [
-        "1632125433ea11c45b-0",
-        "1632125433ea11c45b-1"
+        "16458078875dc2fd07-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/472A3864_a16a91ff-a11c-494b-a4da-5f03172f88e5.jpg",
+        "layout": "right-alignment"
+      }
+    },
+    "16458079910f43c492": {
+      "type": "image-with-text",
+      "blocks": {
+        "1645807991552e7542-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>My artistic process is a lot like life’s journey, it is a building process that has beauty and challenges along the way. My process of painting is one of construction and destruction to create a multitude of layers, colors, and textures. I never know where a painting will start or where it will end. I love starting with a giant blank canvas and seeing it build and become a finished work of beautiful harmony. Creation to me is feeling, living, and harmony of the soul.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645807991552e7542-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/472A4003.jpg",
         "layout": "left-alignment"
       }
     },
-    "16328164825c13132e": {
-      "type": "heading",
+    "1645808063b19c93c6": {
+      "type": "image-with-text",
+      "blocks": {
+        "1645808063d43d3fe3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>My painting process is one where I layer large amounts of paint across the canvass and put multiple layers of color over each layer. I use a special tool that spreads the paint across the canvass and allows you to see through the many layers of colors and textures. My process is one of spontaneous creation not knowing what will happen or what will be created. The painting is finished when it has beauty, peacefulness, and harmony.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645808063d43d3fe3-1"
+      ],
       "settings": {
-        "title": "",
-        "content": "<p>Write more information about your brand, products or story.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "text_alignment": "center",
-        "text_size": "large"
+        "image": "shopify:\/\/shop_images\/472A3917.jpg",
+        "layout": "right-alignment"
       }
     },
-    "1632125507a926bace": {
-      "type": "video-popup",
-      "settings": {
-        "title": "",
-        "video": "https:\/\/www.youtube.com\/watch?v=WU90UnyjmfI"
-      }
-    },
-    "1632125485cfaa5f96": {
+    "1645808180238f2938": {
       "type": "products-slider",
       "settings": {
-        "title": "Explore our products",
-        "collection": "",
-        "products_number": 6
+        "title": "Explore Available Works",
+        "collection": "gallery",
+        "products_number": 3
+      }
+    },
+    "1645808183b6859c39": {
+      "type": "image-gallery",
+      "blocks": {
+        "16458081837323e5c3-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3843_f3d92270-c156-4d95-a651-a0c19e5969db.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "16458081837323e5c3-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A4514_8b5698ae-9385-44b0-9ce3-551a69392b5d.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "16458081837323e5c3-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3970.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "16458081837323e5c3-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A4154.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "70ecf46c-31c9-4850-a80a-2ce0a7a68ffd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3842_f54c69df-b519-45a1-b4a1-342024704f2e.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "5ad9ec6b-802f-4c3a-9c05-6cb8a9748cfe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3945_6a9eadd7-a816-41b2-9113-436f275e7d9d.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "e4be0d12-91f9-42a0-8706-6c21467a103b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3847_711033f5-4303-4648-a26f-2f27b62acf0d.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "ef0fe16a-1450-40ff-9b95-625f2df9f276": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3820.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "ec253c1f-9758-441e-90f3-ba0d44b9e22c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A4096.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "a290c8b1-df36-4282-8ded-10d75b3441c5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3939.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "21e9b47a-0241-4872-8c22-91f595b222c6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3901.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "5257a26d-1a32-469a-963f-1a80753bf50b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A3825_bad2185e-e6f1-488c-83ab-44182910562a.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "fb90c150-4b0b-48a2-88ea-77d2bb3432e9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A4015.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "c71c4b17-18e9-4f80-b156-d51c41926536": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A4152_ba0e3f6f-3a9c-461f-8b9c-34dcd136b238.jpg",
+            "title": "",
+            "caption": ""
+          }
+        },
+        "e1734953-8ddc-4a9a-a224-0b55059f3e8f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/472A4064.jpg",
+            "title": "",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "16458081837323e5c3-0",
+        "16458081837323e5c3-1",
+        "16458081837323e5c3-2",
+        "16458081837323e5c3-3",
+        "70ecf46c-31c9-4850-a80a-2ce0a7a68ffd",
+        "5ad9ec6b-802f-4c3a-9c05-6cb8a9748cfe",
+        "e4be0d12-91f9-42a0-8706-6c21467a103b",
+        "ef0fe16a-1450-40ff-9b95-625f2df9f276",
+        "ec253c1f-9758-441e-90f3-ba0d44b9e22c",
+        "a290c8b1-df36-4282-8ded-10d75b3441c5",
+        "21e9b47a-0241-4872-8c22-91f595b222c6",
+        "5257a26d-1a32-469a-963f-1a80753bf50b",
+        "fb90c150-4b0b-48a2-88ea-77d2bb3432e9",
+        "c71c4b17-18e9-4f80-b156-d51c41926536",
+        "e1734953-8ddc-4a9a-a224-0b55059f3e8f"
+      ],
+      "settings": {
+        "title": "In My Studio"
       }
     }
   },
   "order": [
     "main",
-    "1632816263c7346a69",
-    "1632125386ececde1e",
-    "1632463631169b17ac",
     "1632125416e67e4991",
-    "1632125433ea11c45b",
-    "16328164825c13132e",
-    "1632125507a926bace",
-    "1632125485cfaa5f96"
+    "1645807884378bd625",
+    "1645807887122274c8",
+    "16458079910f43c492",
+    "1645808063b19c93c6",
+    "1645808180238f2938",
+    "1645808183b6859c39"
   ]
 }
