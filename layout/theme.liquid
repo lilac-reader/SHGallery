@@ -69,7 +69,26 @@
   <noscript>
     {{ 'theme-noscript.css' | asset_url | stylesheet_tag }}
   </noscript>
-
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '619765599454459');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=619765599454459&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+{% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
+<!-- begin Talkwithlead code - Option 1 --> <script type="text/javascript" src="https://widgets.talkwithlead.com/Scripts/js/Librarytwl.js"></script> <script type="text/javascript"> var _Xyz_UserData = 'MzI3OTE='; var _Xyz_AgentNew = 'KzE3Mjc0NTcyMDY0'; var ___Twl = { "id": "XB6GWExSf64fKIpqc2RRy1gOgKtQ6bMGIY2MIKA0rCk", "version": "1.1" }; (function (window, document) { var s1 = document.createElement('script'); s1.type = 'text/javascript'; s1.async = true; s1.src = "https://widgets.talkwithlead.com/Scripts/js/javascript.js".replace(/[+]/g, '/').replace(/[=]/g, '.'); document.getElementsByTagName('head')[0].appendChild(s1); })(window, document); </script> <!-- end Talkwithlead code - Option 1 -->
+  
 </head>
 <body id="{{ page_title | handle }}" class="{% if customer %}customer-logged-in {% endif %}template-{{ template.name }} template-{{ template | replace: '.', ' ' | handle }} no-touchevents image-reveal--{{ settings.image_reveal }}">
 	

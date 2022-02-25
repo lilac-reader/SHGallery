@@ -1,100 +1,64 @@
 {
   "sections": {
-    "1644514670a8d8740e": {
-      "type": "rich-text",
-      "blocks": {
-        "164451467075427ebe-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "FREE INSURED CRATED ART SHIPPING",
-            "heading_size": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "164451467075427ebe-0"
-      ],
-      "settings": {
-        "text_alignment": "left"
-      }
-    },
     "main": {
-      "type": "previous-product",
+      "type": "main-product",
       "blocks": {
-        "ed1d1493-dc23-437e-9067-708ddb292947": {
+        "header": {
           "type": "header",
           "settings": {
-            "show_vendor": true,
-            "show_reviews": true,
-            "show_tax_info": false,
-            "show_sku": false,
-            "show_barcode": false
-          }
-        }
-      },
-      "block_order": [
-        "ed1d1493-dc23-437e-9067-708ddb292947"
-      ],
-      "settings": {
-        "media_aspect": "natural",
-        "enable_zoom": true,
-        "enable_video_looping": false
-      }
-    },
-    "1632400739c41e3e2f": {
-      "type": "image-gallery",
-      "disabled": true,
-      "blocks": {
-        "1632400739c41e3e2f-0": {
-          "type": "image",
-          "settings": {
-            "image": "{{ product.metafields.my_fields.product_close_up.value }}",
-            "title": "",
-            "caption": ""
           }
         },
-        "1632400739c41e3e2f-1": {
-          "type": "image",
+        "variant_picker": {
+          "type": "variant_picker",
           "settings": {
-            "image": "{{ product.metafields.my_fields.room_image.value }}",
-            "title": "",
-            "caption": ""
+            "show_quantities": "no"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_quantity_selector": true
+          }
+        },
+        "pickup_avaiability": {
+          "type": "pickup_avaiability",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
           }
         }
       },
       "block_order": [
-        "1632400739c41e3e2f-0",
-        "1632400739c41e3e2f-1"
+        "header",
+        "variant_picker",
+        "buy_buttons",
+        "pickup_avaiability",
+        "share",
+        "description"
       ],
       "settings": {
-        "title": ""
-      }
-    },
-    "16324007935e9ff3a2": {
-      "type": "video-background",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "video": "{{ product.metafields.my_fields.product_video_close_up.value }}",
-        "video_height": "56.25%",
-        "text_alignment": "horizontal-left vertical-bottom",
-        "color_text": "rgba(0,0,0,0)",
-        "color_bg": "rgba(0,0,0,0)"
+        "enable_zoom": true,
+        "enable_video_looping": false
       }
     },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "Available Works",
-        "products_number": 3
+        "heading": "You may also like"
       }
     }
   },
   "order": [
-    "1644514670a8d8740e",
     "main",
-    "1632400739c41e3e2f",
-    "16324007935e9ff3a2",
     "product-recommendations"
   ]
 }
