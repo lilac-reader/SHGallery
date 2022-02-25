@@ -9298,6 +9298,10 @@ body[data-single-variant] .store-availabilities-modal__variant-title {
   height: 75%;
 }
 
+/*---About Page edits---*/
+.product-item__price {
+  display: none;} /*---also applies to Previous Works---*/
+
 #shopify-section-template--15314085314748__16457438252074aacf {margin-bottom:0px !important;}
 /*---Mobile Edits---*/
 /*---Mobile Home Page Edits---*/
